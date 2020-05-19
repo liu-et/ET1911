@@ -9,6 +9,7 @@
 		<module>spring-ioc-review</module>
     <module>spring-02-hello</module>
     <module>springmvc-03</module>
+    <module>springmvc-04-param</module>
   </modules>
 	<dependencyManagement>
 		<dependencies>
